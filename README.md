@@ -8,7 +8,7 @@ Here are some ideas to get you started:
  <!--img align="right" alt="Coding" width="400" src="add your link here"-->
 - :computer: working as a computational linguist.
 - :green_book: pursuing my MA in Computational linguistics at University of Tübingen.
-- 🌱 my current research interests are in offensive language detection,  paraphrasing.
+- 🌱 my current research interests are in offensive language detection,  paraphrasing, learning learning.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
