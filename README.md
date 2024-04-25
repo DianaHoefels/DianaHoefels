@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
  <!--img align="right" alt="Coding" width="400" src="add your link here"-->
 <!-- :computer: working as a computational linguist.-->
-- :green_book: weiting my MA thesis in Computational linguistics at University of Tübingen
+- :green_book: writing my MA thesis in Computational linguistics at University of Tübingen
 <!--#- 🌱 my current research interests are in offensive language detection,  paraphrasing, learning learning.-->
 <h3 align="left">Connect @:</h3>
 <p align="left">
