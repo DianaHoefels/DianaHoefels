@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- - 👯 I’m looking to collaborate on ... -->
-<  -💬 Ask me about CoRoSeOf, computational linguistics, natural language processing, sexism detection in text, corpus creation and annotation, and the evolving landscape of AI in language models.>
+-💬 Ask me about CoRoSeOf, computational linguistics, natural language processing, sexism detection in text, corpus creation and annotation, and the evolving landscape of AI in language models.
 <!--  - 📫 How to reach me: ...-->
 <!--  - 😄 Pronouns: ...-->
 <!-- - ⚡ Fun fact: ...-->
