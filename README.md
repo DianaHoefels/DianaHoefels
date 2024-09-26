@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 <!--#- 🌱 my current research interests are in offensive language detection,  paraphrasing, learning learning.-->
 <h3 align="left">Connect @:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<!--a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a-->
 <a href="https://www.linkedin.com/in/diana-hoefels-6668b776/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<!--a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a-->
+<!--a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a-->
 </p>
 
 <!-- - 👯 I’m looking to collaborate on ... -->
-<!--  - 💬 Ask me about ...-->
+<  -💬 Ask me about CoRoSeOf, computational linguistics, natural language processing, sexism detection in text, corpus creation and annotation, and the evolving landscape of AI in language models.>
 <!--  - 📫 How to reach me: ...-->
 <!--  - 😄 Pronouns: ...-->
 <!-- - ⚡ Fun fact: ...-->
