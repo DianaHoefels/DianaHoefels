@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <!--a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a-->
 </p>
 
-<!-- - 👯 I’m looking to collaborate on ... -->
--💬 Ask me about CoRoSeOf, computational linguistics, natural language processing, sexism detection in text, corpus creation and annotation, and the evolving landscape of AI in language models.
-<!--  - 📫 How to reach me: ...-->
-<!--  - 😄 Pronouns: ...-->
-<!-- - ⚡ Fun fact: ...-->
+👯 I’m looking to collaborate on computational linguistics projects, NLP research, sexism detection in text, corpus creation, and innovative applications of AI in language processing.
+💬 Ask me about CoRoSeOf, computational linguistics, natural language processing, sexism detection in text, corpus creation and annotation, and the evolving landscape of AI in language models.
+📫 How to reach me: diana.hoefels@gmail.com
+😄 Always here for a good conversation about language and AI!
+⚡ Fun fact: I created a corpus of Romanian sexist and offensive language (CoRoSeOf) to help train AI in recognizing and addressing sexism in text. Words have power, and I'm all about using that power for good!
