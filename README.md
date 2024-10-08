@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 <!--a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a-->
 <!--a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a-->
 </p>
+
 🗡️ My tactic: divide and conquer
-👯 I’m looking to collaborate on computational linguistics projects, NLP research, sexism detection in text, corpus creation, and innovative applications of AI in language processing.
+
+👯 I’m looking to collaborate on:
+   - computational linguistics projects,
+   - NLP research
+   - sexism detection
+   - corpus creation
+   - innovative applications of AI in language processing.
 
 💬 Ask me about CoRoSeOf, computational linguistics, natural language processing, sexism detection in text, corpus creation and annotation, and the evolving landscape of AI in language models.
 
