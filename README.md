@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist diving deep into the realms of NLP and AI. Here's where I break down language barriers and build bridges with code.
 
-![Insert your image or gif description here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNoMWZob2YzNnE5Z2N4ZWZkY2ZodDBmYzNkdmVuNTdiaW05YThwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXxI9NlwvYiY3bRsck/giphy.gif)
+![Insert your image or gif description here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Rxdnd2YWJicGFkbnpnbmh1bmUzeDNvbTV4cDNnYnVpZ2N0OGMyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkXKZzUJlM7xDm31ge/giphy.gif)
 
 🗡️ **My Tactic:** Divide and conquer – I tackle complex language problems by breaking them down into manageable pieces.
 
