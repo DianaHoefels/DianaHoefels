@@ -4,7 +4,7 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
 
 ![Insert your image or gif description here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Rxdnd2YWJicGFkbnpnbmh1bmUzeDNvbTV4cDNnYnVpZ2N0OGMyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkXKZzUJlM7xDm31ge/giphy.gif)
 
-🗡️ **My Tactic:** Divide and conquer – I tackle complex language problems by breaking them down into manageable pieces.
+🛠️ **My Tactic:** Divide and conquer – I tackle complex language problems by breaking them down into manageable pieces.
 
 👯 **I’m looking to collaborate on:**
    - Computational Linguistics Projects
@@ -14,7 +14,8 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
    - Innovative AI Applications in Language Processing
 
 💬 **Ask me about:**
-   - CoRoSeOf: My corpus of Romanian sexist and offensive language.
+   - [CoRoSeOf - An Annotated Corpus of Romanian Sexist and Offensive Tweets](https://aclanthology.org/2022.lrec-1.243/)
+   - [UD_Romanian-TueCL - A UD annotated treebank corpus extracted from Coroseof](https://github.com/UniversalDependencies/UD_Romanian-TueCL)
    - The nitty-gritty of computational linguistics and natural language processing.
    - Strategies for sexism detection in text, corpus creation, and annotation.
    - How AI is reshaping the landscape of language models.
