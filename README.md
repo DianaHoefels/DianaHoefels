@@ -28,4 +28,4 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
 
 ⚡ **Fun fact:** I built CoRoSeOf, a dataset aimed at training AI to recognize and address sexism in text. I believe in using the power of words for good!
 
-🚀 Let's make something awesome together. Thanks for stopping by!
+👋 Thanks for stopping by!
