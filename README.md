@@ -16,9 +16,8 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
 
 Explore my academic work and publications: 🎓 [My Google Scholar](https://scholar.google.com/citations?user=Sn0p5uIAAAAJ&hl=en)
 
-👯 **I’m looking to collaborate on:**
+👯 **I’m open to collaborate on:**
    - Computational Linguistics Projects
-   - NLP Research
    - Sexism Detection
    - Corpus Creation
    - Innovative AI Applications in Language Processing
