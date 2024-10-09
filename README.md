@@ -10,7 +10,7 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
    - visit my podcast here:
    - my YouTube channel here:
 
-🌱 My current research interests are in fact-checking within large language models (LLMs).
+🌱 My current research interest is in fact-checking within large language models (LLMs).
 
 🛠️ **My Tactic:** Divide and conquer – I tackle complex language problems by breaking them down into manageable pieces.
 
