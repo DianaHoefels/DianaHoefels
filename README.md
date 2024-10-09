@@ -4,15 +4,15 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
 
 ![Insert your image or gif description here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9maGkxYmJoOW41NzN3b2JyZDMxa2tjdzBlaGd4eG5vaWN1c3hnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.gif)
 
-🖥️ I’m currently working as a computational linguist.
+🖥️ I’m currently **working** as a **computational linguist**.
 
-🎥 I'm also a content creator, focusing on computational linguistics topics in the era of AI.
+🎥 I'm also a **content creator**, focusing on **computational linguistics** topics in the era of **AI**.
 
-🌱 My current research interest is in fact-checking within large language models (LLMs).
+🌱 My current **research interest** is in **fact-checking within large language models (LLMs)**.
 
 🛠️ **My Tactic:** Divide and conquer – I tackle complex language problems by breaking them down into manageable pieces.
 
-Explore my academic work and publications: 🎓 [My Google Scholar](https://scholar.google.com/citations?user=Sn0p5uIAAAAJ&hl=en)
+🎓 **Explore my academic work and publications**:  [My Google Scholar](https://scholar.google.com/citations?user=Sn0p5uIAAAAJ&hl=en)
 
 👯 **I’m open to collaborate on:**
    - Computational Linguistics Projects
