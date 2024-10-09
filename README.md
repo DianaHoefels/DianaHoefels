@@ -6,6 +6,8 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
 
 🛠️ **My Tactic:** Divide and conquer – I tackle complex language problems by breaking them down into manageable pieces.
 
+Explore my academic work and publications: 🎓 [My Google Scholar](https://scholar.google.com/citations?user=Sn0p5uIAAAAJ&hl=en)
+
 👯 **I’m looking to collaborate on:**
    - Computational Linguistics Projects
    - NLP Research
