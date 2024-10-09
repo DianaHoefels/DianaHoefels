@@ -7,8 +7,6 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
 🖥️ I’m currently working as a computational linguist.
 
 🎥 I'm also a content creator, focusing on computational linguistics topics in the era of AI.
-   - visit my podcast here:
-   - my YouTube channel here:
 
 🌱 My current research interest is in fact-checking within large language models (LLMs).
 
