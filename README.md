@@ -23,8 +23,9 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
 💬 **Ask me about:**
    - [CoRoSeOf - An Annotated Corpus of Romanian Sexist and Offensive Tweets](https://aclanthology.org/2022.lrec-1.243/)
    - [UD_Romanian-TueCL - A UD annotated treebank corpus extracted from Coroseof](https://github.com/UniversalDependencies/UD_Romanian-TueCL)
+   - RoFact - a Romanian fact-checking dataset (789 claims), with multilingual/LLM baselines.
    - The nitty-gritty of computational linguistics and natural language processing.
-   - Strategies for sexism detection in text, corpus creation, and annotation.
+   - Strategies for fact-checking, sexist and offensive language detection in text, corpus creation, and annotation.
    - How AI is reshaping the landscape of language models.
 
 📫 **How to reach me:**
