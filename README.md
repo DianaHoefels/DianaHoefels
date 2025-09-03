@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist diving deep into the realms of NLP and AI. Here's where I break down language barriers and build bridges with code.
+Welcome to my GitHub! I’m Diana, a passionate Computational Linguist diving deep into the realms of NLP and AI. Here's where I break down language barriers and build bridges with code.
 
 ![Insert your image or gif description here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9maGkxYmJoOW41NzN3b2JyZDMxa2tjdzBlaGd4eG5vaWN1c3hnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.gif)
 
@@ -15,8 +15,10 @@ Welcome to my GitHub! 🌟 I’m Diana, a passionate Computational Linguist divi
 🎓 **Explore my academic work and publications**:  [My Google Scholar](https://scholar.google.com/citations?user=Sn0p5uIAAAAJ&hl=en)
 
 👯 **I’m open to collaborate on:**
-   - Computational Linguistics Projects
-   - Sexism Detection
+   - Fact-checking
+   - Low-resource languages in NLP
+   - Interpretability and Explanaibility of AI
+   - Sexist and Offensive Language Detection
    - Corpus Creation
    - Innovative AI Applications in Language Processing
 
