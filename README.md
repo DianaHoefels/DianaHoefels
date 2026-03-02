@@ -1,6 +1,6 @@
 ### Hi there 
 
-Welcome to my GitHub! I’m Diana, a passionate Computational Linguist diving deep into the realms of NLP and AI. Here's where I break down language barriers and build bridges with code.
+I’m Diana, a passionate Computational Linguist diving deep into the realms of NLP and AI. 
 
 ![Insert your image or gif description here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9maGkxYmJoOW41NzN3b2JyZDMxa2tjdzBlaGd4eG5vaWN1c3hnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.gif)
 
