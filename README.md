@@ -8,7 +8,7 @@ I’m Diana, a passionate Computational Linguist diving deep into the realms of 
 
 🎥 I'm also a **content creator**, focusing on **computational linguistics** topics in the era of **AI**.
 
-🌱 My current **research interest** is in **fact-checking within large language models (LLMs)**.
+🌱 My current **research interest** is in **fact-checking within large language models (LLMs), explainability and responsible AI, Low-Resourced Languages (Romanian)**.
 
 🛠️ **My Tactic:** Divide and conquer – I tackle complex language problems by breaking them down into manageable pieces.
 
