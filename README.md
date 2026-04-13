@@ -4,8 +4,6 @@ I’m Diana, a Computational Linguist with a strong passion for language, NLP, a
 
 My work sits at the intersection of **linguistics and technology**, with a particular focus on how linguistic insight can improve the development of more robust, responsible, and human-centered language technologies.
 
-![Insert your image or gif description here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9maGkxYmJoOW41NzN3b2JyZDMxa2tjdzBlaGd4eG5vaWN1c3hnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTsNgkamxfk2ZLq/giphy.gif)
-
 🖥️ I work in **computational linguistics**, combining **linguistic analysis**, **language data**, and **AI-driven methods** to tackle real-world language problems.
 
 🎥 I am also a **content creator**, sharing thoughts and insights on **computational linguistics, language technology, and AI**.
