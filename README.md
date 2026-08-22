@@ -9,7 +9,7 @@
 I build, study, and evaluate language technologies with a focus on  
 **multilingual NLP · LLM evaluation · educational NLP · language resources · human-centered AI**
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=Sn0p5uIAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKCpqFxNoj_qi5nmSL8IBPnztdPoLMI1ItBP-3V9cM7d5S0i-fu7u1tLWKafwMuWL1FBmTuzIiPfBzWwjTVeOU9qWGgEA3MJqRa3ZBH7mZNcLHT96CyKpcTN5anqU6idO3MCW8uZvwoeB2gQl_Q&user=tEhDbNwAAAAJ))
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKCpqFxNoj_qi5nmSL8IBPnztdPoLMI1ItBP-3V9cM7d5S0i-fu7u1tLWKafwMuWL1FBmTuzIiPfBzWwjTVeOU9qWGgEA3MJqRa3ZBH7mZNcLHT96CyKpcTN5anqU6idO3MCW8uZvwoeB2gQl_Q&user=tEhDbNwAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--1496--5633-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-1496-5633)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-constantina-hoefels-6668b776/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:diana.hoefels@gmail.com)
